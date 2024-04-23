@@ -1,0 +1,15 @@
+name: MobModifier
+version: '1.0'
+main: ua.omen.mobmodifier.MobModifier
+api-version: 1.16
+description: A plugin that modifies the Mob drop.
+
+commands:
+  mobmodifier:
+    description: Mob Modifier command
+    permission: mobmodifier.help
+    aliases: [mobm]
+  mobmodifier.reload:
+    description: Reload the plugin configuration
+    permission: mobmodifier.reload
+    aliases: [mobm]

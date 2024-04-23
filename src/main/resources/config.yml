@@ -1,0 +1,8 @@
+Mobs:
+  Evoker:
+    Items:
+      - TOTEM_OF_UNDYING:30
+  Zombie:
+    Items:
+      - ROTTEN_FLESH:10
+      - IRON_INGOT:5
